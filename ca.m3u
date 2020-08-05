@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="EC | CANAL UNO HD" tvg-logo="http://144.217.91.146/Logos/Ecuador/canal-uno-ec.png" group-title="ECUADOR ®",EC | CANAL UNO HD
-http://ecuaplaytv.com:8000/Demojssj/hshs66/81377
+http://181.198.153.175:5002/play/a044/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EC | Ecuador TV HD" tvg-logo="http://144.217.91.146/Logos/Ecuador/ecuador-tv-ec.png" group-title="ECUADOR ®",EC | Ecuador TV HD
 http://ecuaplaytv.com:8000/Demojssj/hshs66/81348
 #EXTINF:-1 tvg-id="" tvg-name="EC | ECUAVISA HD" tvg-logo="http://144.217.91.146/Logos/Ecuador/ecuavisa.png" group-title="ECUADOR ®",EC | ECUAVISA HD
